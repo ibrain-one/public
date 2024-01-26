@@ -3,8 +3,12 @@ name: ibrain one website
 on:
   push:
     branches: [ "main" ]
+    paths: 
+      - 'websites/ibrain.one/**'
   pull_request:
     branches: [ "main" ]
+    paths: 
+      - 'websites/ibrain.one/**'
   workflow_dispatch:
 
 jobs:
