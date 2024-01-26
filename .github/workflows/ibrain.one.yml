@@ -21,6 +21,6 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: websites/ibrain.one/
-          server-dir: /home/aiwahdli/ibrain.one/
+          server-dir: /
           port: 21
           protocol: ftps # Using FTPS for TLS/SSL explicit encryption
