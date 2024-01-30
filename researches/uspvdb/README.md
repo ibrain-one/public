@@ -1,13 +1,13 @@
 ![Alt text](../../brand/logos/header.png)  
 
 # Project Name
-Provide a concise and descriptive title for the project.
+USPVDB Solar Panel Tool.
 
 ## Project Description
 A brief overview of the project, including its purpose, scope, and goals.
 
 ## Project Owner
-- **Name:** [Owner's Name]
+- **Name:** Obongofon Udombat
 - **Contact Information:** [Email, Phone Number, etc.]
 - **Affiliation:** [Organization/Institute/Company]
 
