@@ -56,13 +56,106 @@ Embarking on a journey fueled by dreams and the collective aspirations of a vibr
 Dedicated to being a catalyst for positive change, Martin's path is one of inclusivity, where every voice is valued, and every dream contributes to our collective journey. His ambition is not only to achieve his goals but to elevate others, transforming individual aspirations into a grand tapestry of shared accomplishments.
 
 
-
-
 3. **Resume/CV:**
    - Updated resumes or CVs for you and, if applicable, your collaborators, focusing on relevant experiences, publications, and contributions to the field.
 
+**Martin Ouimet, Principal Investigator (PI)**
+- **Expertise:** Pioneering in AI development, with a strong emphasis on integrating innovative frameworks for AI safety and alignment.
+- **Contribution:** Martin will oversee the project's strategic direction, ensuring alignment with objectives and efficient team collaboration. He will leverage his leadership in guiding the project towards groundbreaking achievements in AI safety.
+
+**Hassan Gharbi, AI Research Lead**
+- **Expertise:** Specializes in AI safety, alignment strategies, and the development of ethical AI systems.
+- **Contribution:** Hassan will spearhead the research on "Brainstack", focusing on the integration of ethical trust levels and enhancing AI's decision-making capabilities within ethical boundaries.
+
+**Shohorab Arefin Amit, Software Developer**
+- **Expertise:** Proficient in software development with a focus on AI applications and machine learning models.
+- **Contribution:** Amit will develop and implement key software components for "iBrain", working on the coding and integration of complex AI functionalities to facilitate advanced task automation and natural language understanding.
+
+**Obongofon Udombat, Junior Researcher**
+- **Expertise:** Emerging talent in AI research with a keen interest in cognitive architectures and machine learning.
+- **Contribution:** Obongofon will support the research team by assisting in data collection, analysis, and preliminary testing of the "Brainstack" framework, contributing to the empirical evidence required for validating the project's concepts.
+
+**Mhamed Ben Cherqui, AI Scientist**
+- **Expertise:** Expert in machine learning and cognitive science, with a focus on developing AI systems that can interpret and act on human intentions.
+- **Contribution:** Mhamed will enhance the project's core AI capabilities, focusing on the development of models that facilitate seamless human-AI collaboration within the "Brainstack" experimentation.
+
+**Oleksandr Riabukha, Software Engineer**
+- **Expertise:** Specializes in software engineering with extensive experience in developing scalable and efficient software solutions.
+- **Contribution:** Oleksandr will be instrumental in architecting the technical infrastructure for "iBrain", ensuring the robustness and scalability of AI models and frameworks for operational excellence.
+
+**Melissa Caya, Administrative Support**
+- **Expertise:** Proficient in project administration and operational management, with experience in coordinating AI research projects.
+- **Contribution:** Melissa will manage administrative and operational tasks, facilitating smooth project execution and effective resource allocation. She will also handle communication and documentation, ensuring the team's efforts are well-organized and documented.
+
+**Vacant Positions**
+
+For the roles yet to be filled, the project seeks individuals with the following expertise:
+
+**Vacant Position**
+
+- **Financial Manager:** An experienced financial professional to oversee the project's budget, financial planning, and reporting. This role will be crucial for ensuring financial transparency, efficient use of resources, and compliance with grant conditions. The Financial Manager will work closely with the Administrative Support and Project Manager to monitor expenditures, prepare financial reports, and manage the project's budget, ensuring the financial health and accountability of the project throughout its lifecycle.
+- **Ethics Consultant:** An expert in AI ethics to develop and integrate ethical and trust frameworks, ensuring the project aligns with the highest ethical standards.
+- **HCI Specialist:** A specialist in human-computer interaction to optimize AI-human interfaces, enhancing usability and engagement.
+- **Data Scientist/Analyst:** A professional to handle big data, ensuring insightful analysis and data-driven decisions.
+- **Project Manager:** An experienced manager to oversee project timelines, deliverables, and team coordination.
+- **Legal Advisor:** A legal professional to advise on compliance, intellectual property, and other legal matters related to AI development.
+- **Outreach and Dissemination Coordinator:** A communicator to manage the dissemination of project findings and engage with the broader community.
+- **Technical Advisor(s):** Experts in specialized fields of AI to provide guidance on cutting-edge technologies and methodologies.
+
+
 4. **Professional Profiles and Work Samples:**
    - Links to professional profiles (e.g., LinkedIn, Google Scholar) and repositories of work (e.g., GitHub, personal website) that showcase your contributions and expertise.
+
+MARTIN OUIMET
+https://www.linkedin.com/in/mouimet-infinisoft/
+https://github.com/mouimet-infinisoft
+
+HASSAN GHARBI
+https://www.linkedin.com/in/gharbihassan/
+https://github.com/HGHARBI
+
+SHOHORAB AREFIN AMIT
+https://www.linkedin.com/in/amit-basunia/
+https://github.com/amitbasunias
+
+OBONGOFON UDOMBAT
+https://www.linkedin.com/in/obongofon-udombat-a30414146/
+https://github.com/ObMTHsTech
+
+MHAMED BEN CHERQUI
+https://www.linkedin.com/in/mhamedbencherqui/
+https://github.com/BinCharKey
+
+OLEKSANDR RIABUKHA
+https://www.linkedin.com/in/olekria/
+https://github.com/OlekRia
+
+Code Refactoring by Voice: React Hook Transformation with AI iBrain One
+https://www.youtube.com/watch?v=iFKA2MP-lCg
+
+Code Migration by Voice: From JavaScript to Python with AI iBrain One
+https://www.youtube.com/watch?v=ubdYx-COEns&t=7s
+
+Organization Social
+https://www.youtube.com/@ibrainone
+https://twitter.com/InfinisoftI
+https://www.facebook.com/ibrain2u
+https://www.linkedin.com/company/infinisoft-inc
+
+Organization Website
+https://ibrain.one
+
+Organization Github
+https://github.com/ibrain-one
+
+Research Repo
+https://github.com/ibrain-one/public
+
+Brainstack Packages Repo
+https://github.com/Infinisoft-inc/public/tree/main/Packages/%40brainstack
+
+Brainstack Pakages
+https://www.npmjs.com/~infinisoft-world
 
 5. **Detailed Project Proposal:**
    - A comprehensive description of your research project, including its objectives, methodologies, expected outcomes, and a timeline of milestones. This should be half a page or less and very concrete.
