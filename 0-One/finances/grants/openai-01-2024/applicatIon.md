@@ -83,6 +83,10 @@ Dedicated to being a catalyst for positive change, Martin's path is one of inclu
 - **Expertise:** Specializes in software engineering with extensive experience in developing scalable and efficient software solutions.
 - **Contribution:** Oleksandr will be instrumental in architecting the technical infrastructure for "iBrain", ensuring the robustness and scalability of AI models and frameworks for operational excellence.
 
+**Martin Tessier, Financial Manager**
+- **Expertise:** An adept financial strategist with a comprehensive background in budget management, financial planning, and reporting within project-driven environments. Martin Tessier brings a wealth of experience in overseeing financial operations, ensuring the strategic allocation of resources, and maintaining financial health and transparency.
+- **Contribution:** As the Financial Manager, Martin Tessier will play a pivotal role in the project by managing the budget, overseeing financial planning, and ensuring compliance with grant conditions. Working closely with Melissa Caya in Administrative Support and the Project Manager, Martin will ensure that financial resources are used efficiently and effectively. He will be responsible for monitoring expenditures, preparing detailed financial reports, and crafting strategies to maintain the financial integrity of the project. His expertise will be crucial for guiding the project towards fiscal responsibility, ensuring that every dollar is accounted for and aligned with our objectives for groundbreaking achievements in AI safety.
+
 **Melissa Caya, Administrative Support**
 - **Expertise:** Proficient in project administration and operational management, with experience in coordinating AI research projects.
 - **Contribution:** Melissa will manage administrative and operational tasks, facilitating smooth project execution and effective resource allocation. She will also handle communication and documentation, ensuring the team's efforts are well-organized and documented.
@@ -91,9 +95,6 @@ Dedicated to being a catalyst for positive change, Martin's path is one of inclu
 
 For the roles yet to be filled, the project seeks individuals with the following expertise:
 
-**Vacant Position**
-
-- **Financial Manager:** An experienced financial professional to oversee the project's budget, financial planning, and reporting. This role will be crucial for ensuring financial transparency, efficient use of resources, and compliance with grant conditions. The Financial Manager will work closely with the Administrative Support and Project Manager to monitor expenditures, prepare financial reports, and manage the project's budget, ensuring the financial health and accountability of the project throughout its lifecycle.
 - **Ethics Consultant:** An expert in AI ethics to develop and integrate ethical and trust frameworks, ensuring the project aligns with the highest ethical standards.
 - **HCI Specialist:** A specialist in human-computer interaction to optimize AI-human interfaces, enhancing usability and engagement.
 - **Data Scientist/Analyst:** A professional to handle big data, ensuring insightful analysis and data-driven decisions.
@@ -129,6 +130,9 @@ https://github.com/BinCharKey
 OLEKSANDR RIABUKHA
 https://www.linkedin.com/in/olekria/
 https://github.com/OlekRia
+
+MARTIN TESSIER
+https://www.linkedin.com/in/martin-tessier-b7051570/
 
 Code Refactoring by Voice: React Hook Transformation with AI iBrain One
 https://www.youtube.com/watch?v=iFKA2MP-lCg
@@ -213,7 +217,7 @@ In summary, Brainstack represents a significant stride towards resolving AI alig
    - A detailed budget request, specifying the amount and breaking it down by categories (personnel, equipment, computational resources). Include scenarios for lower and upper budget limits.
 
 
-#### Total Budget Request: $250,000 - $750,000
+#### Total Budget Request: $450,000 - $750,000
 
 1. **Personnel ($200,000 - $450,000):**
    - Principal Investigator (PI) / Project Lead: Full-time salary to oversee project development and ensure alignment with objectives.
@@ -411,13 +415,6 @@ This project's aim extends beyond theoretical research; it seeks to provide tang
 Ultimately, the project contributes to the broader goal of ensuring that AI technologies evolve in a manner that is beneficial to humanity, safeguarding against potential risks while maximizing the positive impact of AI on society.
 
 
-
-
-
-
-13. **Certification of Understanding:**
-    - A statement or checklist confirming that you have read and understood the FAQs and terms of the grant application process.
-
-14. **Optional Attachments:**
+13. **Optional Attachments:**
     - Any additional documents that could support your application, such as detailed research findings, preliminary results, or extended project descriptions.
 
