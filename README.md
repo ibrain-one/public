@@ -39,6 +39,6 @@ We welcome collaboration from developers, researchers, enthusiasts, and anyone p
 
 ## Contact Us
 
-Got questions or ideas? We're eager to hear from you. Reach out at [infi@ibrain.one](mailto:info@ibrain.one) for collaborations, inquiries, or feedback.
+Got questions or ideas? We're eager to hear from you. Reach out at [info@ibrain.one](mailto:info@ibrain.one) for collaborations, inquiries, or feedback.
 
 Let's build the future of AI together. Join us at iBrain One.
