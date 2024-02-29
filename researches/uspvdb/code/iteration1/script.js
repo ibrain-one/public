@@ -11,15 +11,27 @@ function processData() {
     reader.readAsText(file);
 }
 
+function manualInputData() {
+    const acCapacity = parseFloat(document.getElementById('acCapacityInput').value);
+    const dcCapacity = parseFloat(document.getElementById('dcCapacityInput').value);
+
+    // Assume the user inputs are in MW, convert them to the format expected by displayDataSummary
+    const data = [
+        { p_cap_ac: acCapacity, p_cap_dc: dcCapacity }
+    ];
+
+    displayDataSummary(data);
+}
+
 function displayDataSummary(data) {
-    // Calculate the summaries
+    // Updated calculations with new metric
     const totalAcCapacity = d3.sum(data, d => +d.p_cap_ac);
     const totalDcCapacity = d3.sum(data, d => +d.p_cap_dc);
     const averageAcCapacity = d3.mean(data, d => +d.p_cap_ac);
     const averageDcCapacity = d3.mean(data, d => +d.p_cap_dc);
-    const totalPanels = totalDcCapacity * 1000 / 0.35; // Assuming 350W per panel
+    const totalPanels = totalDcCapacity * 5000; // New metric: 5000 panels per MW
 
-    // Display the summaries in the visualization div
+    // Display the summaries
     const visualization = d3.select('#visualization');
     visualization.html(''); // Clear previous content
     visualization.append('p').text(`Total AC Capacity: ${totalAcCapacity.toFixed(2)} MW`);
