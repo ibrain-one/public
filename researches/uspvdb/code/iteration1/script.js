@@ -40,3 +40,14 @@ function displayDataSummary(data) {
     visualization.append('p').text(`Average DC Capacity per Project: ${averageDcCapacity.toFixed(2)} MW`);
     visualization.append('p').text(`Estimated Total Number of Solar Panels: ${Math.round(totalPanels)}`);
 }
+
+function calculateSolarPanelMW() {
+    const numPanels = parseInt(document.getElementById('solarPanelInput').value);
+    const panelsPerMW = 5000; // Assuming 5,000 panels equal 1 MW
+    const equivalentMW = numPanels / panelsPerMW;
+
+    // Display the calculation
+    const visualization = d3.select('#visualization');
+    visualization.html(''); // Clear previous content
+    visualization.append('p').text(`Equivalent Megawatt Capacity: ${equivalentMW.toFixed(2)} MW`);
+}
