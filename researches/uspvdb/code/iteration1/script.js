@@ -29,7 +29,7 @@ function displayDataSummary(data) {
     const totalDcCapacity = d3.sum(data, d => +d.p_cap_dc);
     const averageAcCapacity = d3.mean(data, d => +d.p_cap_ac);
     const averageDcCapacity = d3.mean(data, d => +d.p_cap_dc);
-    const totalPanels = totalDcCapacity * 5000; // New metric: 5000 panels per MW
+    const totalPanels = (totalAcCapacity + totalDcCapacity) * 5000; // New metric: 5000 panels per MW
 
     // Display the summaries
     const visualization = d3.select('#visualization');
