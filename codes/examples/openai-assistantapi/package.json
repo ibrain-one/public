@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@brainstack/hub": "^1.2.40",
-    "@brainstack/openai-assistantapi": "^1.0.4",
+    "@brainstack/openai-assistantapi": "^1.0.5",
     "openai": "^4.28.4"
   },
   "gitHead": "deb939cec7cf8269b289d52bdfc8bd96ded379e9"

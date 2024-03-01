@@ -9,8 +9,8 @@ dependencies:
     specifier: ^1.2.40
     version: 1.2.40
   '@brainstack/openai-assistantapi':
-    specifier: ^1.0.4
-    version: 1.0.4
+    specifier: ^1.0.5
+    version: 1.0.5
   openai:
     specifier: ^4.28.4
     version: 4.28.4
@@ -1285,24 +1285,24 @@ packages:
       '@brainstack/log': 1.1.141
     dev: false
 
-  /@brainstack/hub@1.2.43:
-    resolution: {integrity: sha512-5NIPo/f4/DRgy5rqskpi9it09JpVKDv9bS1CJzeJWx8aBcc3L8WjG/spxEyn/1l0Xl6MKUCuLPpixa1xGR5CTQ==}
+  /@brainstack/hub@1.2.44:
+    resolution: {integrity: sha512-J9L5xizCU9zoEiLKCwlconPqtJHiFrNkfQEGRfa8KOPm4+3aaiQ8USUvcsGMR+qwB0yrG5Co+icpMLO81xnlBA==}
     dependencies:
-      '@brainstack/log': 1.1.144
+      '@brainstack/log': 1.1.145
     dev: false
 
   /@brainstack/log@1.1.141:
     resolution: {integrity: sha512-nB1jV3kX43I6P+M9DeWSBE7kSfySsE2tpRwA+DtXXOlvMeT/R0MIrZKdzxjSwc5VRLyl7k2mWWnXl3Vg8Lonjg==}
     dev: false
 
-  /@brainstack/log@1.1.144:
-    resolution: {integrity: sha512-pb9HwoTY7gSpld75TsgcDRfrTkOn/o8RMgg8yfzGoy/zclE7mK/ZMG9G6g7RRdplJgp0kT7MQpywEIztjv+A4g==}
+  /@brainstack/log@1.1.145:
+    resolution: {integrity: sha512-jkBm34f839275dNFiSkw4aramUYqNpxo8EOgblfXXCqGu9vynFRLe4neWRM+ysZ9bfdLG/wFmBh7unpQ2a4NLA==}
     dev: false
 
-  /@brainstack/openai-assistantapi@1.0.4:
-    resolution: {integrity: sha512-fXfpD6hRzV9FHrjsFNBNVIiY73FD6jzEDbaGfJDw02616BLcL6EobskL4qiGkSTv4Oc8uIk17KBUGfuQyNf9XA==}
+  /@brainstack/openai-assistantapi@1.0.5:
+    resolution: {integrity: sha512-z9A1eqOSOqk4MQN/w2jT9sTtqbbAKsyzl9zkbHjXeaRhKrH1f4IZDCEbWQWmdeZMhz3xMwznHIGWc+BGDj5XoQ==}
     dependencies:
-      '@brainstack/hub': 1.2.43
+      '@brainstack/hub': 1.2.44
       openai: 4.28.4
     transitivePeerDependencies:
       - encoding
