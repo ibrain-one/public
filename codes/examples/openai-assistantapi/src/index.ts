@@ -1,8 +1,8 @@
 import {OpenAIAssistant} from '@brainstack/openai-assistantapi';
 
 // Initialize the OpenAIAssistant with your API key and assistant ID
-const apiKey: string = "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";
-const assistantId: string = "asst_ktEF6BgyBeCTjvnMnF7clIR8";
+const apiKey: string = "key";
+const assistantId: string = "id";
 const assistant: OpenAIAssistant = new OpenAIAssistant({apiKey}, assistantId);
 
 // Define a function to handle required actions
